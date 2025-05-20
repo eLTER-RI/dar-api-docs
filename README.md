@@ -1,5 +1,3 @@
-[Back to Menu](../main.md)
-
 # API Documentation
 This section provides an overview of the API documentation, including the main features and functionalities available through the API.
 
@@ -20,5 +18,3 @@ This section provides an overview of the API documentation, including the main f
 - **[Files](files.md)**
 - **[Quality checks](quality_checks.md)**
 - **[Publication](publication.md)**
-
-[Back to Menu](../main.md)
